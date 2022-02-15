@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 639495b9-d831-7b43-2b31-f86c5f4870cb
 ---
@@ -74,7 +76,7 @@ Lattice Translation as a Discrete Symmetry - Bloch's Theorem; Tight-binding Appr
   
 Identical Particles (2 Particles) - Permutations; Spin Statistics; Pauli Exclusion; Helium; Central Field Approximation; Hartree Equations  
   
-_N > 2_ Identical Particles and the Symmetric Group - Permutation Group _SN_; Representation Theory of _SN_; Young Diagrams and Tableaux with Applications to Representation Theory of _SU(N)_, _SN_; Applications: Quarks, Multi-electron Atoms
+_N > 2_ Identical Particles and the Symmetric Group - Permutation Group _S{{< sub "N" >}}_; Representation Theory of _S{{< sub "N" >}}_; Young Diagrams and Tableaux with Applications to Representation Theory of _SU(N)_, _S{{< sub "N" >}}_; Applications: Quarks, Multi-electron Atoms
 {{< tdclose >}}
 
 {{< trclose >}}
