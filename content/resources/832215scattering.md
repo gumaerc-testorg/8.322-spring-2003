@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c189d45e-cdd5-94e5-62db-7183011a30e1
 resourcetype: Document
 title: 832215Scattering.pdf
 uid: ef988190-d4c1-61bd-d3e5-44b0441aa475

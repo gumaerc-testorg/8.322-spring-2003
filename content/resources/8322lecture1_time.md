@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c189d45e-cdd5-94e5-62db-7183011a30e1
 resourcetype: Document
 title: 8322lecture1_time.pdf
 uid: d2ebf6cc-dfeb-ab16-aa9b-87a25258e2ff
