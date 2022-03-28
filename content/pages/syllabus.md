@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: e885f685-5bff-91a1-ffdb-441faf0214e1
 ---
@@ -16,7 +17,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-[8.07](/courses/8-07-electromagnetism-ii-fall-2012/) Electromagnetism II
+[8.07](/courses/8-07-electromagnetism-ii-fall-2012) Electromagnetism II
 
 [8.321](/courses/8-321-quantum-theory-i-fall-2002) Quantum Theory I
 
