@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-322-quantum-theory-ii-spring-2003/0441975dd17adca82173d6588f35b5ac_832211SymmetryInQM.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/0441975dd17adca82173d6588f35b5ac_832211SymmetryInQM.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

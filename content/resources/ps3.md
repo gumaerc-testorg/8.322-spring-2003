@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-322-quantum-theory-ii-spring-2003/1dc2f61c443204c42a9a3b57f859343b_ps3.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/1dc2f61c443204c42a9a3b57f859343b_ps3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

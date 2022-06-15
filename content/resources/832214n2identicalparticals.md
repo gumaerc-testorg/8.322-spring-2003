@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-322-quantum-theory-ii-spring-2003/84ea1cd978296b9cb76ccbf2df94de7c_832214N2IdenticalParticals.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/84ea1cd978296b9cb76ccbf2df94de7c_832214N2IdenticalParticals.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
