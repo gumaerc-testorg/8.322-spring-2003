@@ -5,6 +5,7 @@ file: /courses/8-322-quantum-theory-ii-spring-2003/ef988190d4c161bdd3e544b0441aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

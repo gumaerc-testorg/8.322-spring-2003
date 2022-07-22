@@ -5,6 +5,7 @@ file: /courses/8-322-quantum-theory-ii-spring-2003/cd2fe196778146fe837e59527e514
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
