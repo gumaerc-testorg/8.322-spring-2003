@@ -7,11 +7,11 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 20
-- identifier: a5c18c2d-70e1-80e7-70c8-36239c1f1acd
-  name: Assignments
-  url: /pages/assignments
-  weight: 30
 - identifier: c189d45e-cdd5-94e5-62db-7183011a30e1
   name: Lecture Notes
   url: /pages/lecture-notes
+  weight: 30
+- identifier: a5c18c2d-70e1-80e7-70c8-36239c1f1acd
+  name: Assignments
+  url: /pages/assignments
   weight: 40
