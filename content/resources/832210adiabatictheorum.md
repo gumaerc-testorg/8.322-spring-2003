@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-322-quantum-theory-ii-spring-2003/1b432c4a1de0d840a39a2695e150be03_832210AdiabaticTheorum.pdf
+file_size: 325109
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
