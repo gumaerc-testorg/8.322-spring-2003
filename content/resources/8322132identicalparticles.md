@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-322-quantum-theory-ii-spring-2003/fe72e9df0c5044f5e214dd3b6a4b178d_8322132IdenticalParticles.pdf
+file_size: 519917
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
