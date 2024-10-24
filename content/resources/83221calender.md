@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-322-quantum-theory-ii-spring-2003/f855de05634e08a1a4c3888ca86bf2b2_83221Calender.pdf
+file: /ol-ocw-studio-app/courses/8-322-quantum-theory-ii-spring-2003/f855de05634e08a1a4c3888ca86bf2b2_83221Calender.pdf
 file_size: 140010
 file_type: application/pdf
 learning_resource_types:
