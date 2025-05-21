@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-322-quantum-theory-ii-spring-2003/5c888b6d9692a0036afd97ac79726075_832212LatticeTranslation.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/5c888b6d9692a0036afd97ac79726075_832212LatticeTranslation.pdf
 file_size: 399624
 file_type: application/pdf
 learning_resource_types:

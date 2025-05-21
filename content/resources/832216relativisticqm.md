@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-322-quantum-theory-ii-spring-2003/fdcd58ce6652076831864eca658a3951_832216RelativisticQM.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/fdcd58ce6652076831864eca658a3951_832216RelativisticQM.pdf
 file_size: 1364346
 file_type: application/pdf
 learning_resource_types:

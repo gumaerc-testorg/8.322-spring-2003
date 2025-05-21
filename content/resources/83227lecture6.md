@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-322-quantum-theory-ii-spring-2003/0ce4f20acbdfa718cd95bd716de2c74b_83227Lecture6.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/0ce4f20acbdfa718cd95bd716de2c74b_83227Lecture6.pdf
 file_size: 208529
 file_type: application/pdf
 learning_resource_types:
