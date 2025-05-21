@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-322-quantum-theory-ii-spring-2003/5d1c6451c32955994ec7d03da162df6b_83229PlancksRadiation.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/5d1c6451c32955994ec7d03da162df6b_83229PlancksRadiation.pdf
 file_size: 237641
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-322-quantum-theory-ii-spring-2003/ef988190d4c161bdd3e544b0441aa475_832215Scattering.pdf
+file: /courses/8-322-quantum-theory-ii-spring-2003/ef988190d4c161bdd3e544b0441aa475_832215Scattering.pdf
 file_size: 1559830
 file_type: application/pdf
 learning_resource_types:
