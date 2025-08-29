@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-322-quantum-theory-ii-spring-2003/3469fc3f8ad9f1562fbc172aaab9efcd_83228HigherMultiple.pdf
+file: /ol-ocw-studio-app/courses/8-322-quantum-theory-ii-spring-2003/3469fc3f8ad9f1562fbc172aaab9efcd_83228HigherMultiple.pdf
 file_size: 188768
 file_type: application/pdf
 learning_resource_types:
